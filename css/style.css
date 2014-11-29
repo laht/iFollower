@@ -1,0 +1,20 @@
+#main {
+	width: 960px;
+	margin: 50px auto;
+}
+
+#followersList {
+	float: left;
+	width: 450px;
+	margin-right: 10px; 
+	overflow-y: scroll;
+	max-height: 650px;
+}
+#addFollowerForm {
+	float: left;
+	width: 450px;
+}
+
+#submitBtn {
+	margin-top: 15px;
+}
